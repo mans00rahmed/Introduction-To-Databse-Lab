@@ -1,5 +1,5 @@
 # Introduction-To-Databse-Lab
 ## Harry Porrter Datasbase case study.
 ### Provided:
-- ERD
+- ERD (https://app.diagrams.net/)
 - SQL Script

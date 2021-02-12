@@ -1,5 +1,5 @@
 # Introduction-To-Databse-Lab
-## Harry Porrter Datasbase case study.
+## Harry Porter Database Case Study.
 ### Provided:
 - ERD (https://app.diagrams.net/)
 - SQL Script

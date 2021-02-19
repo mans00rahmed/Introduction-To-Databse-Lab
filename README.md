@@ -1,4 +1,4 @@
-# Introduction To Databse Lab - CS311
+# Introduction To Database Lab - CS311
 ## Database Case Study.
 ## Harry Potter⚡🧙 
 ### Provided:
